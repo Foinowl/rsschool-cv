@@ -1,1 +1,1 @@
-# rsschool-cv
+https://foinowl.github.io/rsschool-cv/cv
