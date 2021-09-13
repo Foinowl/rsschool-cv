@@ -9,6 +9,7 @@
 * GitHub: https://github.com/Foinowl
 
 ## Summary
+
 At the moment I work as a junior specialist of SAP BI.
 
 My main goal is to become a confident Junior Frontend Developer in order to get a job at Epam and develop in this company, gaining experience from qualified specialists.
@@ -18,6 +19,7 @@ During an internship at "Greenatom", I had to constantly study a new direction f
 I want to deepen my knowledge in English and reach the B2 level.
 
 ## Technical Skills
+
 *	HTML5, CSS3, SCSS
 *	React
 *	JavaScript, Python, C#
@@ -49,6 +51,7 @@ sumNestedNumbers([1, [2], 3, [4, [5]]]) // --- > 1 + 2*2 + 3 + 4*4 + 5*5*5 === 1
 ```
 
 ## Working experience
+
 Greenatom.
 Junior specialist.
 *August 2021 – Current time*.
@@ -60,7 +63,9 @@ Trainee.
 Responsibility: Studying the creation of BW repositories, reporting in Analysis for Excel, immersion in the basis of OLAP systems and their creation.
 
 ## Education
+
 * Glazov branch of Kalashnikov Izhevsk State Technical University(2018 – current time), Programmer, Faculty of Information Systems.
 
 ## Languages
+
 * English - A1-A2.
