@@ -54,13 +54,13 @@ sumNestedNumbers([1, [2], 3, [4, [5]]]) // --- > 1 + 2*2 + 3 + 4*4 + 5*5*5 === 1
 
 Greenatom
 Junior specialist
-*August 2021 – Current time*
+*August 2021 - Current time*
 Responsibility: Implementation of archived data sources. Support for the current functionality
 
 Greenatom
 Trainee
-*May 2021 – August 2021*
-Responsibility: Studying the creation of BW repositories, reporting in Analysis for Excel, immersion in the basis of OLAP systems and their creation
+*May 2021 - August 2021*
+Responsibility: Studying the creation of BW data sources, reporting in Analysis for Excel, immersion in basis of OLAP systems and their creation
 
 ## Education
 
