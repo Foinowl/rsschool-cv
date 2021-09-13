@@ -24,3 +24,27 @@ I want to deepen my knowledge in English and reach the B2 level.
 *	JavaScript, Python, C#
 *	Git, GitHub
 *	VsCode
+
+### Example Code
+
+Build a function sumNestedNumbers/sum_nested_numbers that finds the sum of all numbers in a series of nested arrays raised to the power of their respective nesting levels. Numbers in the outer most array should be raised to the power of 1.
+
+```js script
+function sumNestedNumbers(arr) {
+  return sumNested(arr, 1)
+}
+
+const sumNested = (arr, dep = 1) => {
+  let sum = 0;
+  for (let i = 0; i < arr.length; i++) {
+    if (Array.isArray(arr[i])) {
+      sum += sumNested(arr[i], dep + 1);
+    } else {
+      sum += Math.pow(arr[i], dep);
+    }
+  }
+  return sum; 
+};
+
+sumNestedNumbers([1, [2], 3, [4, [5]]]) // --- > 1 + 2*2 + 3 + 4*4 + 5*5*5 === 149
+```
