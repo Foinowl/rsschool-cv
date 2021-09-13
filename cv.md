@@ -31,6 +31,7 @@ I want to deepen my knowledge in English and reach the B2 level.
 Build a function sumNestedNumbers/sum_nested_numbers that finds the sum of all numbers in a series of nested arrays raised to the power of their respective nesting levels. Numbers in the outer most array should be raised to the power of 1.
 
 ```js script
+
 function sumNestedNumbers(arr) {
   return sumNested(arr, 1)
 }
@@ -48,18 +49,23 @@ const sumNested = (arr, dep = 1) => {
 };
 
 sumNestedNumbers([1, [2], 3, [4, [5]]]) // --- > 1 + 2*2 + 3 + 4*4 + 5*5*5 === 149
+
 ```
 
 ## Working experience
 
 Greenatom
 Junior specialist
+
 *August 2021 - Current time*
+
 Responsibility: Implementation of archived data sources. Support for the current functionality
 
-Greenatom
+Greenatom 
 Trainee
+
 *May 2021 - August 2021*
+
 Responsibility: Studying the creation of BW data sources, reporting in Analysis for Excel, immersion in basis of OLAP systems and their creation
 
 ## Education
