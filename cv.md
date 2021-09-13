@@ -59,3 +59,9 @@ Greenatom
 Trainee
 *May 2021 – August 2021*  
 Responsibility: Studying the creation of BW repositories, reporting in Analysis for Excel, immersion in the basis of OLAP systems and their creation.
+
+### Education
+* Glazov branch of Kalashnikov Izhevsk State Technical University(2018 – current time), Programmer, Faculty of Information Systems
+
+### Languages
+* English - A1-A2.
